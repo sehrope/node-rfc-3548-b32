@@ -1,0 +1,22 @@
+{
+  "name": "rfc-3548-b32",
+  "description": "Binary safe implementation of RFC 3548 Base32 encoding/decoding for node.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "author": "Sehrope Sarkuni <sehrope@jackdb.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sehrope/node-rfc-3548-b32"
+  },
+  "keywords": [
+    "base32",
+    "encoding",
+    "rfc-3548"
+  ],
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  }
+}
