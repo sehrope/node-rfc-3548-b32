@@ -1,7 +1,7 @@
 {
   "name": "rfc-3548-b32",
   "description": "Binary safe implementation of RFC 3548 Base32 encoding/decoding for node.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "engines": {
     "node": ">=0.10"
